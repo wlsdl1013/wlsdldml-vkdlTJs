@@ -7,4 +7,4 @@
 + for문 : 반목문 => range()
 + while문
 
-# wlsdldml-vkdlTJs
+## 05.14 : 파이썬 문자열, 리스트
